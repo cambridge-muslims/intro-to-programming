@@ -43,3 +43,17 @@ Things which I may google:
 	•	How do I output a number to the user?
 
 ## 2b: Leetcode (for interviews)
+
+After getting comfortable building basic programs, data structures and algorithms (DSA) is THE thing to practice for interviews. The current climate of coding interviews focuses almost solely on DSA -- if you're good at DSA, you're 90% of the way there.
+
+One of the best resources for practicing coding problems is Leetcode. However, Leetcode has a massive library of problems which nobody needs to go through. This is where Neetcode (yes, with an N) comes in handy. Neetcode contains a collection of the most bang-for-your-buck Leetcode problems ("the Neetcode 150") across different difficulty levels. But by far the best thing about Neetcode is its worked solutions for every problem.
+
+### Steps to Get Started with Leetcode and Neetcode:
+
+1. **Create a Leetcode Account.** Sign up on Leetcode and familiarise yourself with the platform. Explore the problem categories and get an idea of the different types of questions available.
+	- It's likely that you won't be able to complete a single one of the problems yet -- that's absolutely fine and normal.
+2.  **Follow the Neetcode Guide.** Start with the Neetcode 150. It provides a step-by-step pathway, starting with easier problems and gradually moving to more complex ones.
+3. **Learn the Basics of DSA.** Spend some time learning about basic data structures (arrays, linked lists, stacks, queues, trees, graphs) and algorithms (sorting, searching, dynamic programming). There are plenty of free resources available online, including tutorials and videos.
+	- *Note to self: add some here*
+4. **Solve a problem every day.** When you're in a grind period (e.g. interviews coming up), then you should try to solve one problem a day. Otherwise, here and there, solving a problem is fine to keep you sharp.
+
