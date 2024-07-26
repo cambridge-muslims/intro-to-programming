@@ -38,9 +38,9 @@ Example:
 I want to build a Python program which takes in a temperature in Fahrenheit from the user and outputs the corresponding temperature in degrees Celsius.
 
 Things which I may google:
-	•	How do I take in input from the user?
-	•	How do I convert a number in Fahrenheit to Celsius?
-	•	How do I output a number to the user?
+- How do I take in input from the user?
+- How do I convert a number in Fahrenheit to Celsius?
+- How do I output a number to the user?
 
 ## 2b: Leetcode (for interviews)
 
